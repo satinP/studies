@@ -15,9 +15,20 @@
 
 ##### 12/22/2020:
 
-- [JavaScript Cheatsheets Series' Articles](https://dev.to/sakhnyuk/series/10123)
+- [JavaScript Cheatsheets Series' Articles:](https://dev.to/sakhnyuk/series/10123)
 
   JS Array Cheatsheet -> <strong>length; concat; join; slice; indexOf; lastIndexOf; map; sort; reverse; forEach; every; some; filter; shift; unshift; pop; push; splice</strong>;
 
   JS Math Cheatsheet -> <strong>abs; round; ceil; floor; max; min; pow; random; sqrt</strong>.
+  <br>
+
+- [Introduction to Videogames and Emulators:](https://youtu.be/vUqLLpUJ47s)
+
+  9 Consoles Generations;
+
+  Understanding Emulators;
+
+  16 to 32-bits and Assembly to C;
+
+  GPUs;
   <br>
