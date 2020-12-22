@@ -4,11 +4,20 @@
 
 ##### 12/21/2020:
 
- - [Stop Memorizing!: The #1 Advice I Wish Someone Would Have Told Me:](https://dev.to/brendamichellle/stop-memorizing-the-1-advice-i-wish-someone-would-have-told-me-5cnj)
+- [Stop Memorizing!: The #1 Advice I Wish Someone Would Have Told Me:](https://dev.to/brendamichellle/stop-memorizing-the-1-advice-i-wish-someone-would-have-told-me-5cnj)
 
-   Focus on learning problems-solving skills and practice algorithms and data structures;
+  Focus on learning problems-solving skills and practice algorithms and data structures;
 
-   Do not fear google + copy and paste and learn to use keywords to find what you are looking for faster;
+  Do not fear google + copy and paste and learn to use keywords to find what you are looking for faster;
 
-   Make your studying notes easy to go back when needed;
-<br>
+  Make your studying notes easy to go back when needed.
+  <br>
+
+##### 12/22/2020:
+
+- [JavaScript Cheatsheets Series' Articles](https://dev.to/sakhnyuk/series/10123)
+
+  JS Array Cheatsheet -> <strong>length; concat; join; slice; indexOf; lastIndexOf; map; sort; reverse; forEach; every; some; filter; shift; unshift; pop; push; splice</strong>;
+
+  JS Math Cheatsheet -> <strong>abs; round; ceil; floor; max; min; pow; random; sqrt</strong>.
+  <br>
