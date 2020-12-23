@@ -35,5 +35,5 @@
   
 ##### 12/23/2020:
 
-- [Started reading "Learning Javascript Data Structures and Algorithms":](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878)
+- [Started reading "Learning Javascript Data Structures and Algorithms"](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878)
   <br>
