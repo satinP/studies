@@ -32,3 +32,8 @@
 
   GPUs;
   <br>
+  
+  ##### 12/23/2020:
+
+- [Start reading "Learning Javascript Data Structures and Algorithms":](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878)
+  <br>
