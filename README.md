@@ -37,3 +37,11 @@
 
 - [Started reading "Learning Javascript Data Structures and Algorithms"](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878)
   <br>
+  
+##### 12/24/2020:
+
+- [Finished reading "Outwitting the Devil: The Secret to Freedom and Success" pt-br version](https://www.amazon.com/Mais-Esperto-Que-Diabo-Liberdade/dp/8568014003)
+  <br>
+  
+
+
