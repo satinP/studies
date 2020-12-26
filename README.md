@@ -43,5 +43,12 @@
 - [Finished reading "Outwitting the Devil: The Secret to Freedom and Success" pt-br version](https://www.amazon.com/Mais-Esperto-Que-Diabo-Liberdade/dp/8568014003)
   <br>
   
+##### 12/25/2020:
 
+- [Don't be scared, get started with Open Source as soon as possible.:](https://dev.to/manvendrajpoot/don-t-be-scared-get-started-with-open-source-as-soon-as-possible-1g7b)
+
+  Cool open soruce projects such as -> <strong>Kubernetes, TensorFlow</strong> and others;
+
+  Helpful links to start contributing with OS projects.
+  <br>
 
