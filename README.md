@@ -45,10 +45,14 @@
   
 ##### 12/25/2020:
 
-- [Don't be scared, get started with Open Source as soon as possible.:](https://dev.to/manvendrajpoot/don-t-be-scared-get-started-with-open-source-as-soon-as-possible-1g7b)
+- [Don't be scared, get started with Open Source as soon as possible](https://dev.to/manvendrajpoot/don-t-be-scared-get-started-with-open-source-as-soon-as-possible-1g7b)
 
   Cool open soruce projects such as -> <strong>Kubernetes, TensorFlow</strong> and others;
 
   Helpful links to start contributing with OS projects.
+  <br>
+  
+- [Started the course "Earthquakes: Programming and Interfaces" on coursera](https://www.coursera.org/learn/java-programming-design-principles)
+
   <br>
 
