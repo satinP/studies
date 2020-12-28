@@ -55,4 +55,13 @@
 - [Started the course "Earthquakes: Programming and Interfaces" on coursera](https://www.coursera.org/learn/java-programming-design-principles)
 
   <br>
+  
+##### 12/28/2020:
 
+- [Tools and Resources Series' Articles:](https://dev.to/denicmarko/series/10095)
+
+  Tools and resources to help developmers;
+
+  Twitter threads to help find jobs.
+  <br>
+ 
